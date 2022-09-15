@@ -18,7 +18,7 @@ pipeline{
       
       steps {
         sh 'rm trufflehog || true'
-        sh 'cat trufflehog'
+       
        
          
       }
